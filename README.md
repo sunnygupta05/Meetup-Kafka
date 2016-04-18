@@ -9,4 +9,4 @@ Overview of Demo :-
 
 Please note, To run the application, Please provide path of commonconfig for all the application.
 
-Run.txt file contains few of the commands needed to create and admin the kafka topic.
+Run.txt file contains few of the commands needed to create and admin the kafka topic....
