@@ -8,3 +8,5 @@ Overview of Demo :-
 3) AccountGroup is having only one Consumer where as ShipmentGroup is having 2 Consumers.
 
 Please note, To run the application, Please provide path of commonconfig for all the application.
+
+Run.txt file contains few of the commands needed to create and admin the kafka topic.
